@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Hackerstellar-OnDay/static/css/main.cef94e7d.css",
+    "main.js": "/Hackerstellar-OnDay/static/js/main.fd61c7ca.js",
+    "service-worker.js": "/Hackerstellar-OnDay/service-worker.js",
+    "index.html": "/Hackerstellar-OnDay/index.html",
+    "main.cef94e7d.css.map": "/Hackerstellar-OnDay/static/css/main.cef94e7d.css.map",
+    "main.fd61c7ca.js.map": "/Hackerstellar-OnDay/static/js/main.fd61c7ca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cef94e7d.css",
+    "static/js/main.fd61c7ca.js"
+  ]
+}
